@@ -43,7 +43,7 @@ This server can do the following.
   - index file
   - autoindex
   - upload_path (When using POST)
-  - client max body size (When using POST
+  - client max body size (When using POST)
   - cgi path (When using python CGI)
   - redirect path
 
